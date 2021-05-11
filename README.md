@@ -5,7 +5,9 @@ This is a web designing project by reactjs.
 ### it is used for heading 3
 #### it is used for heading 4
 *font style in italic*
+
 **Font style in bold**
+
 ***For both styles***
 # unordered list
 * Fruits as unordered list name
