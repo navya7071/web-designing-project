@@ -21,3 +21,5 @@ This is a web designing project by reactjs.
 
  1. whole numbers
  2. natural numbers
+  
+  ![Tajmahal](https://images.app.goo.gl/sDpjYAyMpGBHbNxVA)
